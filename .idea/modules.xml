@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/actuator/actuator.iml" filepath="$PROJECT_DIR$/actuator/actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actuator/api/api.iml" filepath="$PROJECT_DIR$/actuator/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actuator/service/service.iml" filepath="$PROJECT_DIR$/actuator/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
+    </modules>
+  </component>
+</project>
